@@ -1,4 +1,4 @@
-import React, {useState, useEffect} from 'react'
+import React, {useState} from 'react'
 import { Form, Container, Col, Button } from 'react-bootstrap'
 
 export default function Search(props) {
